@@ -1,0 +1,7 @@
+{
+  "name": "Chess Vision AI",
+  "description": "Point your camera at a chessboard to get the best move suggestion for White or Black, powered by Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
